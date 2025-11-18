@@ -12,3 +12,9 @@ This folder contains filled  **NumPy 100 exercise**, created to demonstrateprofi
   - Linear algebra operations
   - Random number generation
 - Designed to show **efficient and Pythonic usage** of NumPy.
+## 📘 Numpy 100 Exercises – Google Colab
+
+Tento notebook lze přímo spustit v Google Colab:
+
+👉 [Otevřít v Google Colab](https://colab.research.google.com/github/Vojtech-panek/Machine-learning/blob/main/numpy/100_Numpy_exercises.ipynb)
+
